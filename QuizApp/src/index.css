@@ -1,0 +1,13 @@
+* {
+  margin:0;
+}
+
+body {
+  height:100vh;
+  background-image: linear-gradient(to right, #000000, #ffffff);
+
+}
+
+.body-container {
+  margin-top: 250px;
+}
